@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Param</h1>
-<h3 align="center">A passionate developer from Bangalore</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramvarsha12&label=Profile%20views&color=0e75b6&style=flat" alt="paramvarsha12" /> </p>
 
